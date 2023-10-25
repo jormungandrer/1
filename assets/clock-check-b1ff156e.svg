@@ -1,0 +1,14 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="clock-check" clip-path="url(#clip0_17801_10200)">
+<path id="Icon" d="M13.2904 17.4166L15.1237 19.25L19.2487 15.125M20.1517 11.504C20.1608 11.3372 20.1654 11.1691 20.1654 11C20.1654 5.93737 16.0613 1.83331 10.9987 1.83331C5.93609 1.83331 1.83203 5.93737 1.83203 11C1.83203 15.9824 5.80717 20.0365 10.759 20.1636M10.9987 5.49998V11L14.4255 12.7134" stroke="url(#paint0_linear_17801_10200)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_17801_10200" x1="10.9987" y1="1.83331" x2="10.9987" y2="20.1636" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18AFEC"/>
+<stop offset="1" stop-color="#008DC5"/>
+</linearGradient>
+<clipPath id="clip0_17801_10200">
+<rect width="22" height="22" fill="white"/>
+</clipPath>
+</defs>
+</svg>
